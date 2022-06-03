@@ -28,5 +28,5 @@ rpc.on('ready', () => {
    console.log(chalk.red.bold("NOTE: If you close this window the status will be deactivated."))
 })
 rpc.login({
-    clientId: ''
+    clientId: 'ClientID'
 })
