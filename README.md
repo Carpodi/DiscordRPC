@@ -2,4 +2,6 @@
 Custom **Discord** Rich Precense.
 
 Step 1- Go to Discord [Developer](https://discord.dev) Portal. 
-Setp 2- Create a new [Application](https://discord.com/developers/applications)
+
+
+Step 2- Create a new [Application](https://discord.com/developers/applications)
