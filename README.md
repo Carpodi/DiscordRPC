@@ -26,8 +26,11 @@ Step 8- Replace **Buttont1** and **Button2** for your buttons name.
 Step 9- Replace the links for the links that you want buttons redirect to.
 
 Step 10- Install discord-rpc and chalk@4.1.2
+
 **npm i discord-rpc&chalk@4.1.2**
+
 Step 11- Go to your folder, type cmd and put node . or node index.js
+
 And ready! You now have a totally custom DiscordRPC.
 
 
