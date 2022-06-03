@@ -5,4 +5,4 @@ Step 1- Go to Discord [Developer](https://discord.dev) Portal.
 
 
 Step 2- Create a new [Application](https://discord.com/developers/applications)
-https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/apps.png
+<img src = https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/apps.png  height='50px'>
