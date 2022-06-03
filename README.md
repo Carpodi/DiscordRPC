@@ -9,3 +9,7 @@ Step 2- Create a new [Application](https://discord.com/developers/applications)
 **Note:** The application name must be the name that you want in your RPC.
 
 Step 3-Download this repo
+
+Step 4- Replace **ClientID** for your client id.
+
+Step 5- Upload the images that you want in the Rich Precense.
