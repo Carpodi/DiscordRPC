@@ -33,4 +33,7 @@ Step 11- Go to your folder, type cmd and put node . or node index.js
 
 And ready! You now have a totally custom DiscordRPC.
 
+# Dependencies 
+![NodeJS logo](https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/nodejs.png)
 
+[NodeJS](https://nodejs.org/en/), © OpenJS Foundation. All Rights Reserved. Portions of this site originally © Joyent.
