@@ -13,3 +13,4 @@ Step 3-Download this repo
 Step 4- Replace **ClientID** for your client id.
 
 Step 5- Upload the images that you want in the Rich Precense.
+<img src = https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/richpresence.png>
